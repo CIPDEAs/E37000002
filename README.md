@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/CIPDEAs/leaflet-maps-with-google-sheets/index.html
+- Leaflet Map https://github.com/CIPDEAs/leaflet-maps-with-google-sheets
 - Google Sheets template https://docs.google.com/a/cipdenterpriseadvisers.co.uk/spreadsheets/d/1Pk0yg70NMU3SoEdjIixeW_lDUuYjBMB1QGY10oE7jds/pubhtml
 
 ## Create your own
