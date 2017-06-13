@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://cipdeas.github.io/Black-Country-LEP/
+- Leaflet Map https://cipdeas.github.io/E37000001/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14qSHlZltpqUkR08tRUFyHpzFUN6PqndtRihGiX2sRoM/edit#gid=0
 
 ## Create your own
